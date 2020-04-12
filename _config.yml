@@ -54,7 +54,7 @@ topics:
   - name: Architecture patterns
 
   - name: Low Code
-    web_url: https://en.wikipedia.org/wik/Low-code_development_platform
+    web_url: https://en.wikipedia.org/wiki/Low-code_development_platform
 
   - name: Sass
     web_url: https://github.com/topics/sass
